@@ -71,12 +71,6 @@
 
 <img src="https://via.placeholder.com/200x120?text=AWS%20Cloud%20Practitioner" alt="AWS Cloud Practitioner" width="200" title="AWS Cloud Practitioner — Amazon Web Services"/> <img src="https://via.placeholder.com/200x120?text=Meta%20Frontend%20Developer" alt="Meta Frontend Developer" width="200" title="Meta Frontend Developer — Meta / Coursera"/> <img src="https://via.placeholder.com/200x120?text=Google%20Data%20Analytics" alt="Google Data Analytics" width="200" title="Google Data Analytics — Google / Coursera"/>
 
-<img src="https://via.placeholder.com/200x120?text=TensorFlow%20Developer" alt="TensorFlow Developer" width="200" title="TensorFlow Developer — DeepLearning.AI"/> <img src="https://via.placeholder.com/200x120?text=React%20%E2%80%93%20The%20Complete%20Guide" alt="React – The Complete Guide" width="200" title="React – The Complete Guide — Udemy"/> <img src="https://via.placeholder.com/200x120?text=Node.js%20Developer" alt="Node.js Developer" width="200" title="Node.js Developer — Udemy"/>
-
-<img src="https://via.placeholder.com/200x120?text=Python%20for%20Data%20Science" alt="Python for Data Science" width="200" title="Python for Data Science — IBM / Coursera"/> <img src="https://via.placeholder.com/200x120?text=PostgreSQL%20Bootcamp" alt="PostgreSQL Bootcamp" width="200" title="PostgreSQL Bootcamp — Udemy"/> <img src="https://via.placeholder.com/200x120?text=Docker%20%26%20Kubernetes" alt="Docker & Kubernetes" width="200" title="Docker & Kubernetes — Udemy"/>
-
-<img src="https://via.placeholder.com/200x120?text=MongoDB%20Developer" alt="MongoDB Developer" width="200" title="MongoDB Developer — MongoDB University"/>
-
 ---
 
 ## 📈 GitHub Stats
