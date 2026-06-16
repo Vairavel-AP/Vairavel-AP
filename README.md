@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=false&width=700&lines=MERN%20Full%20Stack%20Developer%3BPERN%20Full%20Stack%20Developer%3BData%20Science%20%26%20ML%20Engineer%3BAWS%20Cloud%20Architect%3BFinal%20Year%20CS%20Student%20%40%20VIT%20Vellore)](https://github.com/VAIRAVEL-AP)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VAIRAVEL-AP&color=7aa2f7&style=flat)
+                    ![Profile Views](https://komarev.com/ghpvc/?username=VAIRAVEL-AP&color=7aa2f7&style=flat)
+        
 
 </div>
 
