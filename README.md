@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAIRAVEL-AP&show_icons=true&theme=tokyonight)
 <!--
 **Vairavel-AP/Vairavel-AP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
