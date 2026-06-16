@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-A passionate full-stack developer and data engineer from India.
 
 ## 📊 Project Stats
 
@@ -24,11 +23,11 @@ A passionate full-stack developer and data engineer from India.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAIRAVEL-AP&layout=donut&theme=tokyonight)
 
-## 📬 Connect with Me
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VAIRAVEL-AP&theme=react-dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=VAIRAVEL-AP&color=blue)
+
+
+## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vairavel)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=VAIRAVEL-AP&theme=react-dark)
-![Profile Views](https://komarev.com/ghpvc/?username=VAIRAVEL-AP&color=blue)
