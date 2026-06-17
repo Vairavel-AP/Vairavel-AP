@@ -69,7 +69,7 @@
 
 ## 🏆 Certifications
 
-<img src="https://via.placeholder.com/200x120?text=AWS%20Cloud%20Practitioner" alt="AWS Cloud Practitioner" width="200" title="AWS Cloud Practitioner — Amazon Web Services"/> <img src="https://via.placeholder.com/200x120?text=Meta%20Frontend%20Developer" alt="Meta Frontend Developer" width="200" title="Meta Frontend Developer — Meta / Coursera"/> <img src="https://via.placeholder.com/200x120?text=Google%20Data%20Analytics" alt="Google Data Analytics" width="200" title="Google Data Analytics — Google / Coursera"/>
+<img src="https://via.placeholder.com/200x120?text=AWS%20Cloud%20Practitioner" alt="AWS Cloud Practitioner" width="200" title="AWS Cloud Practitioner — Amazon Web Services"/>
 
 ---
 
