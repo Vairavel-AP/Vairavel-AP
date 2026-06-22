@@ -19,10 +19,10 @@
 
 - 🎓 **Final Year B.Tech CSE** student at **VIT Vellore**
 - 💡 Passionate about **Full Stack Development**, **Data Science & ML**, and **Cloud (AWS)**
-- 🌱 Currently exploring advanced **System Design** and **MLOps**
+- 🌱 Currently exploring advanced **System Design** and **DevOps**
 - 🚀 Always building, always learning
 
-![Full Stack Dev](https://img.shields.io/badge/-Full%20Stack%20Dev-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Data Science & ML](https://img.shields.io/badge/-Data%20Science%20%26%20ML-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Cloud (AWS)](https://img.shields.io/badge/-Cloud%20(AWS)-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Open Source](https://img.shields.io/badge/-Open%20Source-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e)
+![Full Stack Dev](https://img.shields.io/badge/-Full%20Stack%20Dev-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Data Science & ML](https://img.shields.io/badge/-Data%20Science%20%26%20ML-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Cloud (AWS)]
 
 ---
 
@@ -34,7 +34,6 @@
 | PERN Stack Projects | `4` |
 | Data Science & ML | `3` |
 | AWS Cloud Projects | `2` |
-| Open Source Contributions | `6` |
 
 ---
 
