@@ -22,7 +22,8 @@
 - 🌱 Currently exploring advanced **System Design** and **DevOps**
 - 🚀 Always building, always learning
 
-![Full Stack Dev](https://img.shields.io/badge/-Full%20Stack%20Dev-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Data Science & ML](https://img.shields.io/badge/-Data%20Science%20%26%20ML-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Cloud (AWS)]
+![Full Stack Dev](https://img.shields.io/badge/-Full%20Stack%20Dev-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) ![Data Science & ML](https://img.shields.io/badge/-Data%20Science%20%26%20ML-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e) 
+![Cloud (AWS)](https://img.shields.io/badge/-Cloud%20AWS%20-1a1b2e?style=flat&color=7aa2f7&labelColor=1a1b2e)
 
 ---
 
