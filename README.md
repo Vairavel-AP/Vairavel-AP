@@ -72,6 +72,7 @@
 
 <img src="https://via.placeholder.com/200x120?text=AWS%20Cloud%20Practitioner" alt="AWS Cloud Practitioner" width="200" title="AWS Cloud Practitioner — Amazon Web Services"/>
 
+<img src="https://via.placeholder.com/200x120?text=AWS%20Cloud%20Practitioner" alt="AWS Cloud Practitioner" width="200" title="AWS Cloud Solutions Architect — Amazon Web Services"/>
 ---
 
 ## 📈 GitHub Stats
