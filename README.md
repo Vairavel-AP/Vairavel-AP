@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-> I'm a passionate Final Year Computer Science student at VIT Vellore, deeply driven by the intersection of full-stack engineering, data intelligence, and cloud infrastructure. I craft end-to-end web applications using MERN & PERN stacks, build intelligent ML pipelines, and architect scalable cloud solutions on AWS. I thrive on turning real-world problems into elegant, production-ready systems — and I'm always learning, always building.
+> I'm a passionate Final Year Computer Science student at VIT Vellore, deeply driven by the intersection of full-stack engineering, data intelligence, and cloud infrastructure. I craft end-to-end web applications using MERN & PERN stacks, build intelligent ML Models, and architect scalable cloud solutions on AWS. I thrive on turning real-world problems into elegant, production-ready systems — and I'm always learning, always building.
 
 - 🎓 **Final Year B.Tech CSE** student at **VIT Vellore**
 - 💡 Passionate about **Full Stack Development**, **Data Science & ML**, and **Cloud (AWS)**
