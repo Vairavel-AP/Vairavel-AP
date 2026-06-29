@@ -70,10 +70,6 @@ I enjoy solving real-world problems through **Full Stack Development**, **Cloud 
 - Data Visualization
 - Machine Learning
 - Deep Learning
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
 
 ---
 
@@ -124,29 +120,24 @@ I enjoy solving real-world problems through **Full Stack Development**, **Cloud 
 ---
 
 ### 🔹 DevOps Intern — IBM
-
-- Docker
-- Kubernetes
-- Jenkins
-- Maven
-- Grafana
-- CI/CD Pipelines
+- Applying DevOps using Docker, Kubernetes, Jenkins, Maven, Grafana, Graphite, and Nagios while developing a Task Manager
+- Implementing CI/CD pipelines, containerization, orchestration, deployment automation, and monitoring following modern DevOps
+practice
 
 ---
 
 ### 🔹 Data Science Intern — I am neo
 
-- Data Analysis
-- Machine Learning
-- Data Visualization
-- Plant Disease Detection using Gemini AI
+- Applied Data Analysis, Data Visualization, and Machine Learning on real-world datasets through COVID-19 Data Analysis and
+Tech Giant Stock Analysis.
+- Built an AI-powered Plant Disease Detection System with automated disease precaution recommendations using Gemini AI 
 
 ---
 
 # 🏆 Certifications
 
 - AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect – Associate *(In Progress)*
+- AWS Certified Solutions Architect – Associate 
 - IBM Data Science Professional Certificate
 - Machine Learning A-Z (Udemy)
 - The Complete Web Development Bootcamp
@@ -158,7 +149,7 @@ I enjoy solving real-world problems through **Full Stack Development**, **Cloud 
 - 🏆 Solved **1000+ Coding Problems**
 - ⭐ LeetCode **350+ Day Streak**
 - 🏅 LeetCode Contest Rating **1848**
-- 🏅 CodeChef Rating **1848**
+- 🏅 CodeChef Rating **1160**
 - 🏆 HackerRank SQL **5⭐**
 - 🏅 GFG **160+ Problems**
 - 💻 HackBattle Participant – VIT Vellore
@@ -184,10 +175,9 @@ I enjoy solving real-world problems through **Full Stack Development**, **Cloud 
 # 📫 Connect With Me
 
 - 📧 Email: **vairavel.a2006@gmail.com**
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 💻 GitHub
-- 🧩 Codolio
+- 💼 LinkedIn: **https://www.linkedin.com/in/vairavel-a-p-9735252b7/**
+- 🌐 Portfolio: 
+- 🧩 Codolio: **https://codolio.com/profile/Vairavel%20A/problemSolving**
 
 ---
 
